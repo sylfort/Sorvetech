@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+body{
+  font-family: 'Audiowide', cursive;
+}
+
+h1{
+font-size: 40px;
+color: #54e2d4;
+font-style: oblique;
+font-weight: normal;
+
+text align: center;
+}
+
+h2{
+font-size: 20px;
+color: #54e2d4;
+font-style: oblique;
+font-weight: normal;
+
+text align: center;
+}
+
+p{
+  padding: 0px 40px;
+  text-align: justify;
+}
+
+#quadrado {
+    width: 110px;
+    height: 150px;
+    background-color: #000000;
+    position: absolute;
+    top: 879px;
+    left: 365px;
+}
+
+  <p id="quadrado"></div>
